@@ -1,25 +1,25 @@
 # Nexcent 🌐
 
-Este proyecto es una página desarrollada con **HTML y CSS**, basada en un diseño moderno para una plataforma llamada **Nexcent**. El objetivo principal es practicar maquetación web, diseño responsive y estructuración semántica.
+This project is a page developed with **HTML and CSS**, based on a modern design for a platform called **Nexcent**. The main goal is to practice web layout, responsive design, and semantic structuring.
 
-## 📌 Características
+## 📌 Features
 
-* Diseño moderno y limpio
-* Totalmente responsive (desktop, tablet y mobile)
-* Uso de **CSS Grid** y **Flexbox**
-* Estructura semántica en HTML
-* Landing page multipropósito:
+* Modern and clean design
+* Fully responsive (desktop, tablet, and mobile)
+* Use of **CSS Grid** and **Flexbox**
+* Semantic HTML structure
+* Multipurpose landing page:
 
   * Hero section
-  * Clientes
-  * Comunidad
-  * Secciones informativas
-  * Estadísticas
+  * Clients
+  * Community
+  * Informational sections
+  * Statistics
   * Blog
   * Call to Action
-  * Footer completo
+  * Complete footer
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Technologies Used
 
 * **HTML5**
 * **CSS3**
@@ -28,7 +28,7 @@ Este proyecto es una página desarrollada con **HTML y CSS**, basada en un dise�
   * Grid Layout
   * Media Queries
 
-## 📂 Estructura del proyecto
+## 📂 Project Structure
 
 ```
 /
@@ -36,38 +36,38 @@ Este proyecto es una página desarrollada con **HTML y CSS**, basada en un dise�
 ├── css/
 │   └── styles.css
 ├── img/
-│   └── (imágenes del proyecto)
+│   └── (project images)
 └── README.md
 ```
 
 ## 📱 Responsive Design
 
-El sitio se adapta a distintos tamaños de pantalla usando **media queries**:
+The site adapts to different screen sizes using **media queries**:
 
 * Desktop (≥ 768px)
 * Tablet (481px – 768px)
 * Mobile (≤ 480px)
 
-## 🚀 Cómo ejecutar el proyecto
+## 🚀 How to Run the Project
 
-1. Clona el repositorio:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/tu-usuario/nombre-del-repo.git
 ```
 
-2. Abre el archivo `index.html` en tu navegador.
+2. Open the `index.html` file in your browser.
 
+## 🎯 Project Objective
 
-## 🎯 Objetivo del proyecto
+I created this project to learn and improve skills in:
 
-Este proyecto lo he creado para aprender y mejorar habilidades en:
+* Web layout
+* Responsive design
+* HTML and CSS code organization
+* Good visual structure practices
 
-* Maquetación web
-* Diseño responsive
-* Organización de código HTML y CSS
-* Buenas prácticas de estructura visual
+## ✨ Author
 
-## ✨ Autor
+Developed by **Daniel Tobías Atehortúa Serna**
 
-Desarrollado por **Tobías Atehortúa**
